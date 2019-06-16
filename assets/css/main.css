@@ -21,8 +21,9 @@ header .avatar {
 }
 
 header h1 {
-    font-size: 20px;
-    font-weight: normal;
+    font-size: 30px;
+    font-weight: bold;
+    color: green;
 }
 
 .content {
